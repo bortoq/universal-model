@@ -1,2 +1,7 @@
 cp.sh
 universal_model_v7.md
+src/vm1/sorter.txt
+src/vm1/tmp_*
+src/vm1/*.raw.txt
+src/vm1/tools/__pycache__/
+archive/copy-space/legacy/tmp/
