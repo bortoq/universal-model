@@ -8,3 +8,4 @@ archive/copy-space/legacy/tmp/
 src/assoc/data/
 src/assoc/transformer/__pycache__/
 src/exp/__pycache__/
+src/assoc/neural/__pycache__/
