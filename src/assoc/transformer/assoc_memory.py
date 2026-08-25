@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AssocMemory — механизм ассоциативной адресации с online дообучением.
+AssocMemory — механизм AoV с online дообучением.
 
 Интерфейс как в spec.md:
   encode(V: bytes[32]) -> K: bytes[4]  (|K|<|V|, сжатие 8x)
