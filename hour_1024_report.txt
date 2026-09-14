@@ -1,0 +1,3 @@
+start Tue Aug 25 18:32:44 2026
+train done 165.7s
+point ham mean 497.41 ball 494.02 total 284.2s

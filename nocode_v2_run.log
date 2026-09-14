@@ -1,0 +1,24 @@
+start Tue Aug 25 18:23:24 2026
+epoch 0 loss 0.6445
+epoch 1 loss 0.5230
+epoch 2 loss 0.4401
+epoch 3 loss 0.3820
+epoch 4 loss 0.3358
+epoch 5 loss 0.2976
+epoch 6 loss 0.2646
+epoch 7 loss 0.2364
+epoch 8 loss 0.2115
+epoch 9 loss 0.1886
+epoch 10 loss 0.1683
+epoch 11 loss 0.1502
+epoch 12 loss 0.1334
+epoch 13 loss 0.1171
+epoch 14 loss 0.1040
+epoch 15 loss 0.0922
+epoch 16 loss 0.0804
+epoch 17 loss 0.0751
+epoch 18 loss 0.0596
+epoch 19 loss 0.0726
+train done 207.7s
+point ham 67.68 ball 65.30 same_pt 0.383 same_ball 0.725
+point ham mean 67.68 ball 65.30 total 298.9s

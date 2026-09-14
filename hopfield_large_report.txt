@@ -1,0 +1,4 @@
+test hopfield large M=500 N_hold 2000
+original V 256b Hopfield: ham mean 16.17 min 0 max 74
+compressed K 32b Hopfield: ham K mean 0.82 ham VviaK 112.08
+total 32.7s

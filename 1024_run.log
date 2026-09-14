@@ -1,0 +1,21 @@
+start Tue Aug 25 18:32:44 2026
+saved /tmp/universal-model/src/assoc/data/hour_1024_train.bin n=80000
+saved /tmp/universal-model/src/assoc/data/hour_1024_hold.bin n=20000
+epoch 0 loss 0.6937
+epoch 1 loss 0.6936
+epoch 2 loss 0.6936
+epoch 3 loss 0.6936
+epoch 4 loss 0.6936
+epoch 5 loss 0.6936
+epoch 6 loss 0.6936
+epoch 7 loss 0.6936
+epoch 8 loss 0.6936
+epoch 9 loss 0.6936
+epoch 10 loss 0.6936
+epoch 11 loss 0.6936
+epoch 12 loss 0.6936
+epoch 13 loss 0.6936
+epoch 14 loss 0.6936
+train done 165.7s
+point ham 497.41 ball 494.02 same 1.000
+point ham mean 497.41 ball 494.02 total 284.2s

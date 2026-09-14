@@ -1,0 +1,10 @@
+start Tue Aug 25 18:00:32 2026
+train done 39.6s
+eval 5000/20000 pt 39.73 ball 39.73 same_pt 0.743 same_ball 1.000
+eval 10000/20000 pt 39.73 ball 39.73 same_pt 0.739 same_ball 1.000
+eval 15000/20000 pt 39.73 ball 39.73 same_pt 0.737 same_ball 1.000
+eval 20000/20000 pt 39.73 ball 39.73 same_pt 0.736 same_ball 1.000
+holdout 20000 point ham mean 39.73 ball best 39.73
+same point 0.736 same ball 1.000
+total 594.7s
+report /tmp/hour_report.txt
