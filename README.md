@@ -15,7 +15,7 @@ The entire model is built from a single primitive element: the **Tautology**.
 Traditional information transfer (Shannon channels) requires an active **action**—moving bits from point A to point B. Action takes time, consumes power, and creates a non-zero path ($\Delta x > 0$), leaving a gap where errors or contradictions can occur.
 
 The UM replaces actions with **instantaneous prediction (guessing)**. 
-* The internal emulation aligns its structures so that, at the exact micro-moment of measurement, the calculated value and the physical reality **collapse into the same entity**.
+* The internal emulation aligns its structures so that, at the exact moment of measurement, the calculated value and the physical reality **collapse into the same entity**.
 * Because there is no distance, no gap, and no delay, the path between the system's image and the outside world is **strictly zero**. When counting entities, the system and its environment are counted exactly once: as **1**.
 
 ## 3. The Structure: Coadjacent and Own Spaces
